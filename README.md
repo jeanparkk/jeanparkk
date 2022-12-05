@@ -1,4 +1,7 @@
 ### Hi there 👋
+<img src="https://img.shields.io/badge/{안녕하세요}-{green}?style={flat-square}&logo={Samsung}&logoColor={1428A0}"/>
+
+
 
 <!--
 **jeanparkk/jeanparkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
