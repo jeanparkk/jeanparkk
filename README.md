@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/{안녕하세요}-{green}?style={flat-square}&logo={Samsung}&logoColor={1428A0}"/>
+<img src="https://img.shields.io/badge/안녕하세요-green?style={flat-square}&logo={Samsung}&logoColor={1428A0}"/>
 
 
 
